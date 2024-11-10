@@ -14,3 +14,4 @@ python notebook.py
 Additional Resources
 - [Ultralytics](https://docs.ultralytics.com/models/)
 - [How to detect objects on images using the YOLOv8 neural network](https://dev.to/andreygermanov/a-practical-introduction-to-object-detection-with-yolov8-neural-network-3n8c#prepare_data)
+- [MLOps](https://neptune.ai/blog/best-mlops-tools-for-computer-vision-project)
